@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["reachme.vadivelan@gmail.com"]
   spec.description   = %q{Dojo Dijit javascript framework on rails}
   spec.summary       = %q{Use dojo dijit in rails and gets the advantages of AMD browser compatibility and more}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/vadivelan-k/dojo_rails"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
